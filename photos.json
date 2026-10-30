@@ -21,7 +21,8 @@
     {
       "file": "14_10_2026_0012.jpg",
       "layout": {
-        "size": "wide"
+        "size": "standard",
+        "standalone": true
       }
     },
     {
